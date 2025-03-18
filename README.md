@@ -19,7 +19,7 @@
 
 
 <p align="center" style="margin-bottom: 30px;"> 
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcar0ad-49bc59a6-3143-4093-af7a-3164ce60ca27.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNhcjBhZC00OWJjNTlhNi0zMTQzLTQwOTMtYWY3YS0zMTY0Y2U2MGNhMjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9HVm9cQiCCZ2ADVVSRQ0l3NhbDtJZ_WY00ssmG2DjXE" alt="Pixel Art Lua Animada" width="200" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcar0ad-49bc59a6-3143-4093-af7a-3164ce60ca27.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNhcjBhZC00OWJjNTlhNi0zMTQzLTQwOTMtYWY3YS0zMTY0Y2U2MGNhMjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9HVm9cQiCCZ2ADVVSRQ0l3NhbDtJZ_WY00ssmG2DjXE" alt="Pixel Art Lua Animada" width="400" />
 </p>
 
 ---
