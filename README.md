@@ -1,21 +1,22 @@
 <h1 align="center" style="color: #1E90FF; margin-bottom: 20px;">Hi 👋, I'm Leticia</h1>
 <h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A passionate frontend developer from Brazil</h3>
 
-<p align="center" style="margin-bottom: 30px;"> 
+<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0; padding: 10px; border-radius: 8px;"> 
   <img src="https://komarev.com/ghpvc/?username=leticias12a&label=Profile%20views&color=0e75b6&style=flat" alt="leticias12a" /> 
 </p>
 
-<p align="center" style="margin-bottom: 30px;">
+<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0; padding: 10px; border-radius: 8px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=leticias12a" alt="leticias12a" />
   </a>
 </p>
 
-<p align="center" style="margin-bottom: 30px;">
+<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0; padding: 10px; border-radius: 8px;">
   <a href="https://twitter.com/lua31a" target="blank">
     <img src="https://img.shields.io/twitter/follow/lua31a?logo=twitter&style=for-the-badge" alt="lua31a" />
   </a>
 </p>
+
 
 <p align="center" style="margin-bottom: 30px;"> 
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcar0ad-49bc59a6-3143-4093-af7a-3164ce60ca27.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNhcjBhZC00OWJjNTlhNi0zMTQzLTQwOTMtYWY3YS0zMTY0Y2U2MGNhMjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9HVm9cQiCCZ2ADVVSRQ0l3NhbDtJZ_WY00ssmG2DjXE" alt="Pixel Art Lua Animada" width="200" />
