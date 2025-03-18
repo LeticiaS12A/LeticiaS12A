@@ -21,12 +21,18 @@
   <img src="https://raw.githubusercontent.com/yourusername/pixel-art-lua.png" alt="Pixel Art Lua" width="200" />
 </p>
 
-- 🌱 I’m currently learning **i'm studying systems development**
-- 🤝 I’m looking for help with **systems development**
-- 📫 How to reach me **leticia11ldsa07@gmail.com**
-- ⚡ Fun fact **I like design**
+---
 
-<h3 align="center" style="color: #1E90FF;">Connect with me:</h3>
+### 📚 About Me:
+
+- 🌱 I’m currently learning **systems development**.
+- 🤝 I’m looking for help with **systems development**.
+- 📫 How to reach me: **leticia11ldsa07@gmail.com**.
+- ⚡ Fun fact: **I like design**.
+
+---
+
+### 🔗 Connect with Me:
 <p align="center">
   <a href="https://twitter.com/lua31a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lua31a" height="30" width="40" />
@@ -36,7 +42,9 @@
   </a>
 </p>
 
-<h3 align="center" style="color: #1E90FF;">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -64,6 +72,9 @@
   </a>
 </p>
 
+---
+
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticias12a&show_icons=true&locale=en&layout=compact" alt="leticias12a" />
 </p>
