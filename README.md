@@ -7,7 +7,7 @@
 
 <p align="center" style="margin-bottom: 30px; background-color: #f0f0f0; padding: 10px; border-radius: 8px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[https://github-profile-trophy.vercel.app/?username=leticias12a-ma&theme=darkhub]" alt="leticias12a" />
+    <img src="https://github-profile-trophy.vercel.app/?username=leticias12a-ma&theme=darkhub" alt="leticias12a" />
   </a>
 </p>
 
