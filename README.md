@@ -71,7 +71,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0">
+<p align="center" style="margin-bottom: 30px; background-color: #000000">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticias12a&show_icons=true&locale=en&layout=compact" alt="leticias12a" />
 </p>
 
