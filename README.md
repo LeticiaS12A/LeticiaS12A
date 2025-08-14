@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #1E90FF; margin-bottom: 20px;">Hi 👋, I'm Leticia</h1>
 <h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A passionate frontend developer from Brazil</h3>
 
-<p align="center" style="margin-bottom: 30px; background-color: #000000; padding: 10px; border-radius: 8px;"> 
+<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0; padding: 10px; border-radius: 8px;"> 
   <img src="https://komarev.com/ghpvc/?username=leticias12a&label=Profile%20views&color=0e75b6&style=flat" alt="leticias12a" /> 
 </p>
 
@@ -71,14 +71,14 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center" style="margin-bottom: 30px;">
+<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticias12a&show_icons=true&locale=en&layout=compact" alt="leticias12a" />
 </p>
 
-<p align="center" style="margin-bottom: 30px;">
+<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0">
   <img src="https://github-readme-stats.vercel.app/api?username=leticias12a&show_icons=true&locale=en" alt="leticias12a" />
 </p>
 
-<p align="center" style="margin-bottom: 30px;">
+<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticias12a&" alt="leticias12a" />
 </p>
