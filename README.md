@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #1E90FF; margin-bottom: 20px;">Hi 👋, I'm Leticia</h1>
-<h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A passionate frontend developer from Brazil</h3>
+<h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A frontend developer from Brazil</h3>
 
 <p align="center" style="margin-bottom: 30px; background-color: #f0f0f0; padding: 10px; border-radius: 8px;"> 
   <img src="https://komarev.com/ghpvc/?username=leticias12a&label=Profile%20views&color=0e75b6&style=flat" alt="leticias12a" /> 
