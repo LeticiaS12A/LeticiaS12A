@@ -20,11 +20,11 @@
 
 ### 📚 About Me:
 <p align="center" style="margin-bottom: 30px;">
-  - 🎓 Graduated with a Technical Degree in   *Systems Analysis and Development*. 
-  - 💻 Currently studying for a degree in *Systems Analysis and Development*. 
-  - 🤝 I am looking for help to improve my skills in *Systems Development*. 
-  - 📫 How to contact me: **leticia11ldsa07@gmail.com**. 
-  - ⚡ Fun fact: *I enjoy programming in Java*.
+  - 🎓 Graduated with a Technical Degree in   Systems Analysis and Development. 
+  - 💻 Currently studying for a degree in Systems Analysis and Development. 
+  - 🤝 I am looking for help to improve my skills in Systems Analysis and Development. 
+  - 📫 How to contact me: leticia11ldsa07@gmail.com. 
+  - ⚡ Fun fact: I enjoy programming in Java.
 </p>
 
 ---
