@@ -20,7 +20,7 @@
 
 ### 📚 About Me:
 <p align="center" style="margin-bottom: 30px;">
-  - 🎓 Graduated with a Technical Degree in   Systems Analysis and Development. 
+  - 🎓 Graduated with a Technical Degree in   Systems Analysis and Development.<br>
   - 💻 Currently studying for a degree in Systems Analysis and Development. 
   - 🤝 I am looking for help to improve my skills in Systems Analysis and Development. 
   - 📫 How to contact me: leticia11ldsa07@gmail.com. 
