@@ -20,10 +20,11 @@
 
 ### 📚 About Me:
 <p align="center" style="margin-bottom: 30px;">
-  - 🌱 I’m currently learning **systems development**.<br>
-  - 🤝 I’m looking for help with **systems development**.<br>
-  - 📫 How to reach me: **leticia11ldsa07@gmail.com**.<br>
-  - ⚡ Fun fact: **I like design**.
+  - 🎓 Graduated with a Technical Degree in   *Systems Analysis and Development*. 
+  - 💻 Currently studying for a degree in *Systems Analysis and Development*. 
+  - 🤝 I am looking for help to improve my skills in *Systems Development*. 
+  - 📫 How to contact me: **leticia11ldsa07@gmail.com**. 
+  - ⚡ Fun fact: *I enjoy programming in Java*.
 </p>
 
 ---
