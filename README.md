@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A FullStack developer from Brazil</h3>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaS12A&theme=github-dark)](https://github.com/LeticiaS12A/github-readme-activity-graph)
+[![Ashutosh's github activity graph]](https://github.com/LeticiaS12A/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
@@ -79,3 +79,5 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<!-- GIT HUB INSPIRADO EM https://github.com/GabrieIPujol/GabrieIPujol.git -->
