@@ -1,17 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6FEB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Pujol+Amaral+Gurgel+Velosa;I+study+internt+systems+at+Senac+👨🏻‍💻;I+hope+you+enjoy+my+profile!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6FEB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leticia+Dos+Santos+Alves;I+study+internt+systems+at+SPTech+👨🏻‍💻;I+hope+you+enjoy+my+profile!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrieIPujol&theme=github-dark)](https://github.com/GabrieIPujol/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrieIPujol&theme=github-dark)](https://github.com/LeticiaS12A/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-<div align="center">  
-<a href="https://www.instagram.com/biel_pujol/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="mailto:gabriel.pagvelosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gabriel-pujol-073577300" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div> 
 
 <h1 align="center" style="color: #1E90FF; margin-bottom: 20px;">Hi 👋, I'm Leticia</h1>
 <h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A FullStack developer from Brazil</h3>
