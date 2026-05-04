@@ -37,7 +37,7 @@
 ---
 
 ### 🔗 Connect with Me:
-<p align="center" style="margin-bottom: 30px;">
+<p align="center" style="margin-bottom: 30px; display: flex;">
   <a href="https://twitter.com/lua31a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lua31a" height="30" width="40" />
   </a>
@@ -49,7 +49,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="center" style="margin-bottom: 30px;">
+<p align="center" style="margin-bottom: 30px;  display: flex;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -79,14 +79,12 @@
 ---
 
 ### 📊 GitHub Stats:
+<div style=" display: flex;">
 <p align="center" style="margin-bottom: 30px; background-color: #000000">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticias12a&show_icons=true&locale=en&layout=compact" alt="leticias12a" />
 </p>
 
 <p align="center" style="margin-bottom: 30px; background-color: #f0f0f0">
-  <img src="https://github-readme-stats.vercel.app/api?username=leticias12a&show_icons=true&locale=en" alt="leticias12a" />
-</p>
-
-<p align="center" style="margin-bottom: 30px; background-color: #f0f0f0">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticias12a&" alt="leticias12a" />
 </p>
+</div>
