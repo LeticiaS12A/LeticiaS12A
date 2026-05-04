@@ -36,20 +36,6 @@
 
 ---
 
-### 🔗 Connect with Me:
-<div style=" display: flex;">
-<p align="center" style="margin-bottom: 30px;">
-  <a href="https://twitter.com/lua31a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lua31a" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/lua_azul31" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lua_azul31" height="30" width="40" />
-  </a>
-</p>
-</div>
-
----
-
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
