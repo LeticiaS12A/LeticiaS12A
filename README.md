@@ -1,15 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=120&section=header"/>
+<h1 align="center" style="color: #1E90FF; margin-bottom: 20px;">Hi 👋, I'm Leticia</h1>
+<h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A FullStack developer from Brazil</h3>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6FEB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leticia+Dos+Santos+Alves;I+study+internt+systems+at+SPTech+👨🏻‍💻;I+hope+you+enjoy+my+profile!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrieIPujol&theme=github-dark)](https://github.com/LeticiaS12A/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 
-<h1 align="center" style="color: #1E90FF; margin-bottom: 20px;">Hi 👋, I'm Leticia</h1>
-<h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A FullStack developer from Brazil</h3>
 
 <p align="center" style="margin-bottom: 30px; background-color: #f0f0f0; padding: 10px; border-radius: 8px;"> 
   <img src="https://komarev.com/ghpvc/?username=leticias12a&label=Profile%20views&color=0e75b6&style=flat" alt="leticias12a" /> 
