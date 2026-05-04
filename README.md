@@ -37,7 +37,8 @@
 ---
 
 ### 🔗 Connect with Me:
-<p align="center" style="margin-bottom: 30px; display: flex;">
+<div style=" display: flex;">
+<p align="center" style="margin-bottom: 30px;">
   <a href="https://twitter.com/lua31a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lua31a" height="30" width="40" />
   </a>
@@ -45,11 +46,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lua_azul31" height="30" width="40" />
   </a>
 </p>
+</div>
 
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="center" style="margin-bottom: 30px;  display: flex;">
+<div style=" display: flex;">
+<p align="center" style="margin-bottom: 30px;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -75,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
-
+</div>
 ---
 
 ### 📊 GitHub Stats:
