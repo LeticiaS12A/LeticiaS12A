@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #1E90FF; margin-bottom: 20px;">Hi 👋, I'm Leticia</h1>
+<h1 align="center" style="color: #1E90FF; margin-bottom: 20px;">Hi , I'm Leticia</h1>
 <h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A FullStack developer from Brazil</h3>
 
 
@@ -25,13 +25,13 @@
 
 ---
 
-### 📚 About Me:
-<p align="center" style="margin-bottom: 30px;">
-  - 🎓 Graduated with a Technical Degree in   Systems Analysis and Development.<br>
-  - 💻 Currently studying for a degree in Systems Analysis and Development.<br>
-  - 🤝 I am looking for help to improve my skills in Systems Analysis and Development.<br>
-  - 📫 How to contact me: leticia11ldsa07@gmail.com. <br>
-  - ⚡ Fun fact: I enjoy programming in Java.
+### About Me:
+<p style="margin-bottom: 30px;">
+  - Graduated with a Technical Degree in   Systems Analysis and Development.<br>
+  - Currently studying for a degree in Systems Analysis and Development.<br>
+  - I am looking for help to improve my skills in Systems Analysis and Development.<br>
+  - How to contact me: leticia11ldsa07@gmail.com. <br>
+  - Fun fact: I enjoy programming in Java.
 </p>
 
 ---
