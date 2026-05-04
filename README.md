@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #1E90FF; margin-bottom: 30px;">A FullStack developer from Brazil</h3>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrieIPujol&theme=github-dark)](https://github.com/LeticiaS12A/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaS12A&theme=github-dark)](https://github.com/LeticiaS12A/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
